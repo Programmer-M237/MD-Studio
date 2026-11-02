@@ -1,0 +1,3 @@
+// Windows resource script: embeds the application icon into MDStudio.exe
+// (shown in Explorer, taskbar, Start menu, Alt-Tab). Configured by CMake.
+IDI_ICON1 ICON "@MDSTUDIO_ICO_PATH@"

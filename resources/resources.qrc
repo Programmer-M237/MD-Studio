@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="fonts/latinmodern-math.otf">fonts/latinmodern-math.otf</file>
+        <file alias="icons/mdstudio-16.png">icons/mdstudio-16.png</file>
+        <file alias="icons/mdstudio-24.png">icons/mdstudio-24.png</file>
+        <file alias="icons/mdstudio-32.png">icons/mdstudio-32.png</file>
+        <file alias="icons/mdstudio-48.png">icons/mdstudio-48.png</file>
+        <file alias="icons/mdstudio-64.png">icons/mdstudio-64.png</file>
+        <file alias="icons/mdstudio-128.png">icons/mdstudio-128.png</file>
+        <file alias="icons/mdstudio-256.png">icons/mdstudio-256.png</file>
+        <file alias="icons/mdstudio-512.png">icons/mdstudio-512.png</file>
+    </qresource>
+</RCC>

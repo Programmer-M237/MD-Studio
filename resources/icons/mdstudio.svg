@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2d2d30"/>
+      <stop offset="1" stop-color="#1b1b1c"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="48" y="48" width="928" height="928" rx="208"/></clipPath>
+  </defs>
+  <rect x="48" y="48" width="928" height="928" rx="208" fill="url(#bg)"/>
+  <g clip-path="url(#clip)">
+    <rect x="48" y="826" width="928" height="150" fill="#007acc"/>
+  </g>
+  <rect x="48" y="48" width="928" height="928" rx="208" fill="none" stroke="#3c3c3c" stroke-width="8"/>
+  <!-- M -->
+  <polyline points="190,672 190,306 372,528 554,306 554,672" fill="none" stroke="#569cd6"
+            stroke-width="96" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- down arrow (Markdown mark) -->
+  <path d="M770 306 V560" fill="none" stroke="#4ec9b0" stroke-width="96" stroke-linecap="round"/>
+  <path d="M652 520 H888 L770 690 Z" fill="#4ec9b0" stroke="#4ec9b0" stroke-width="40" stroke-linejoin="round"/>
+</svg>
